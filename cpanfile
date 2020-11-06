@@ -1,0 +1,1 @@
+requires 'LWP::Protocol::https';
